@@ -1,0 +1,30 @@
+UNNIC RPG - Changelog - www.unnic.ro
+------------------------------------
+
+- Sistem de inregistrare/autentificare.
+- Sistem de alegere a spawn-ului dorit.
+- Sistem de DMV. (/exam)
+- Speedometer in textdraw.
+- Logo in textdraw.
+
+- Sistem de Joburi (/jobs)
+	* Farmer (skill 1 - 6)
+	* Bus Driver (skill 1 - 6)
+	* Pizza Boy (skill 1 - 6)
+
+- Sistem de Administrare
+	* Admin level 1: /respawn, /kill, /setint, /setvw, /gotoint, /gotocar, /goto, /gethere, /afh, /fpk, /cpk, /ban, /freeze, /unfreeze.
+	* Admin level 2: /afcr
+	* Admin level 6: /servername, /servermode, /reloadcars, /createclan, /setclanrankname, /setclanslots, /setclanapps, /createclancar, /setclancarpos, deleteclancar, /setfactionorder, /reloadfactions, /createfaction, /setfactioncarpos, /setfactioncarcolor, /setfactioncarrank, /deletefactioncar, /setturfname, /setfactioname, /setfactiontype, /setfactioncolor, /setfactiondrugs, /setfactionmats, /setfactionmoney, /setfactionslots, /setfactioncommandrank, /setfactionapps, /setfactionminlevel, /setfactionexterior, /setfactioninterior, /makeadmin, /makeleader, /makeclanleader, /makehelper, /givepp, /givemoney, /giverp, /unban.
+
+- Sistem de clanuri.
+- Sistem de factiuni.
+- Sistem de war.
+- Sistem de Cont Premium Temporar/Permanent. (/givepremium, /removepremium)
+- Sistem de salvare a detelor jucatorilor.
+- Sistem de animatii. (/animlist)
+
+- Sistem de ajutor. (/help)
+	* Account: /stats, /changemail, /changepass, /buylevel, /toggletag.
+	* General: /pay, /turfs, /skills, /serverinfo, /eject, /speedlimit, /shop.
+	* Faction: /f, /orderlist, /order, /heal, /armor.
